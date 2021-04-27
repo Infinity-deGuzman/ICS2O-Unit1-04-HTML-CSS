@@ -1,0 +1,25 @@
+body {
+  background-color: #fdf5c9;
+}
+
+h1 {
+  background-color: #6b3e26;
+  color: #ffc5d9;
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color:	#ffcb85;
+  color: #6b3e26;
+}
+
+ul {
+  background-color: #6b3e26;
+  color: #c2f2d0;
+}
+
+tr {
+  background-color: #6b3e26;
+  color: #c2f2d0;
+}

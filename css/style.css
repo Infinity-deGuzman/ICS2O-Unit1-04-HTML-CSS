@@ -18,3 +18,8 @@ p {
   background-color:	#678d44;
   color: #b8aa69;
 }
+
+img {
+  max-width: 50%;
+  max-height: 50%;
+}
